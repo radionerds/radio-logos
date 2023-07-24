@@ -1,0 +1,70 @@
+Return-Path: <root@triumph-apps.co.za>
+X-Original-To: root
+Delivered-To: root@triumph-apps.co.za
+Received: by triumph-apps.co.za (Postfix, from userid 0)
+	id E567263369; Mon, 26 Jun 2023 07:17:41 +0200 (SAST)
+From: root@triumph-apps.co.za (Cron Daemon)
+To: root@triumph-apps.co.za
+Subject: Cron <root@triumph-apps> /usr/bin/python3 /home/szn0502/Batch_Scripts/radio_net_us_vlc_status.py #Fetch Radio.Net UK Radios
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20230626051741.E567263369@triumph-apps.co.za>
+Date: Mon, 26 Jun 2023 07:17:41 +0200 (SAST)
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 1012, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7f33bb897a60>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='uk.radio.net', port=443): Max retries exceeded with url: /country/usa?p= (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f33bb897a60>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/szn0502/Batch_Scripts/radio_net_us_vlc_status.py", line 66, in <module>
+    req= scraper.get(url_main)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 557, in get
+    return self.request('GET', url, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/cloudscraper/__init__.py", line 259, in request
+    self.perform_request(method, url, *args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/cloudscraper/__init__.py", line 192, in perform_request
+    return super(CloudScraper, self).request(method, url, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 544, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 657, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='uk.radio.net', port=443): Max retries exceeded with url: /country/usa?p= (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f33bb897a60>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))

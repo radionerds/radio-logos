@@ -1,0 +1,18 @@
+Return-Path: <root@triumph-apps.co.za>
+X-Original-To: root
+Delivered-To: root@triumph-apps.co.za
+Received: by triumph-apps.co.za (Postfix, from userid 0)
+	id CD8195EE1F; Sun, 25 Jun 2023 22:06:31 +0200 (SAST)
+From: root@triumph-apps.co.za (Cron Daemon)
+To: root@triumph-apps.co.za
+Subject: Cron <root@triumph-apps> /usr/bin/python3 /home/szn0502/Batch_Scripts/radio_net_us_vlc_status.py #Fetch Radio.Net UK Radios
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20230625200631.CD8195EE1F@triumph-apps.co.za>
+Date: Sun, 25 Jun 2023 22:06:31 +0200 (SAST)
+
+Aborted (core dumped)

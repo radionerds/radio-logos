@@ -1,0 +1,19 @@
+Return-Path: <root@global-media.site>
+X-Original-To: root
+Delivered-To: root@global-media.site
+Received: by global-media.site (Postfix, from userid 0)
+	id B218C66D09; Mon, 28 Nov 2022 00:21:04 +0200 (SAST)
+From: root@global-media.site (Cron Daemon)
+To: root@global-media.site
+Subject: Cron <root@global-media> mysql -u root -p#SmangaRefilwe28  skm2303_dev_radiobrowser_staging  < /home/skm2303/public_html/sql_backup.sql #SmangaRefilwe28  skm2303_dev_radiobrowser_staging  < /home/skm2303/public_html/sql_backup.sql
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20221128002135.B218C66D09@global-media.site>
+Date: Mon, 28 Nov 2022 00:21:04 +0200 (SAST)
+
+ERROR 2006 (HY000) at line 303: MySQL server has gone away

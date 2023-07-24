@@ -1,0 +1,28 @@
+Return-Path: <root@triumph-apps.co.za>
+X-Original-To: root
+Delivered-To: root@triumph-apps.co.za
+Received: by triumph-apps.co.za (Postfix, from userid 0)
+	id D3A075FD13; Mon, 26 Jun 2023 08:31:51 +0200 (SAST)
+From: root@triumph-apps.co.za (Cron Daemon)
+To: root@triumph-apps.co.za
+Subject: Cron <root@triumph-apps> /usr/bin/python3 /home/szn0502/Batch_Scripts/radio_net_us_vlc_status.py #Fetch Radio.Net UK Radios
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20230626063151.D3A075FD13@triumph-apps.co.za>
+Date: Mon, 26 Jun 2023 08:31:51 +0200 (SAST)
+
+Total pages to fetch: 230
+Traceback (most recent call last):
+  File "/home/szn0502/Batch_Scripts/radio_net_us_vlc_status.py", line 93, in <module>
+    cur.execute(delete_genre_radios)
+  File "/usr/lib/python3/dist-packages/MySQLdb/cursors.py", line 209, in execute
+    res = self._query(query)
+  File "/usr/lib/python3/dist-packages/MySQLdb/cursors.py", line 315, in _query
+    db.query(q)
+  File "/usr/lib/python3/dist-packages/MySQLdb/connections.py", line 239, in query
+    _mysql.connection.query(self, query)
+MySQLdb._exceptions.OperationalError: (1205, 'Lock wait timeout exceeded; try restarting transaction')

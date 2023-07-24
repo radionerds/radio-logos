@@ -1,0 +1,401 @@
+Return-Path: <root@triumph-apps.co.za>
+X-Original-To: root
+Delivered-To: root@triumph-apps.co.za
+Received: by triumph-apps.co.za (Postfix, from userid 0)
+	id C1C0D5EEC6; Sun, 25 Jun 2023 15:30:32 +0200 (SAST)
+From: root@triumph-apps.co.za (Cron Daemon)
+To: root@triumph-apps.co.za
+Subject: Cron <root@triumph-apps> /usr/bin/python3 /home/szn0502/Batch_Scripts/radio_net_us_vlc_status.py #Fetch Radio.Net UK Radios
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20230625133032.C1C0D5EEC6@triumph-apps.co.za>
+Date: Sun, 25 Jun 2023 15:30:32 +0200 (SAST)
+
+Total pages to fetch: 230
+Opening page: 1
+@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@
+ Error - :  Invalid \escape: line 1 column 1198 (char 1197)
+2 Radio status: 200 Radio name: Flower Power Radio
+Final Stream https://nl1.streamingpulse.com/ssl/flowerpowerradio
+**** Testing Stream Status For: Flower Power Radio...please wait for 5 seconds
+Info:  Flower Power Radio - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+3 Radio status: 200 Radio name: 24-7 Niche Radio - Northern Soul
+Final Stream https://ssl.shoutcaststreaming.us:8048/;?
+**** Testing Stream Status For: 24-7 Niche Radio - Northern Soul...please wait for 5 seconds
+Info:  24-7 Niche Radio - Northern Soul - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+4 Radio status: 302 Radio name: Bloomberg Radio
+.aac - Final Stream https://playerservices.streamtheworld.com/api/livestream-redirect/WBBRAMAAC.aac
+4 Radio status: 302 Radio name: Bloomberg Radio
+Final Stream https://playerservices.streamtheworld.com/api/livestream-redirect/WBBRAMAAC.aac
+**** Testing Stream Status For: Bloomberg Radio...please wait for 5 seconds
+Info:  Bloomberg Radio - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+ Error - :  Invalid \escape: line 1 column 643 (char 642)
+ Error - :  Invalid \escape: line 1 column 809 (char 808)
+ Error - :  Invalid \escape: line 1 column 988 (char 987)
+8 Radio status: 302 Radio name: WPCV - 97 Country 97.5 FM
+.aac - Final Stream https://playerservices.streamtheworld.com/api/livestream-redirect/WPCVFMAAC.aac
+8 Radio status: 302 Radio name: WPCV - 97 Country 97.5 FM
+Final Stream https://playerservices.streamtheworld.com/api/livestream-redirect/WPCVFMAAC.aac
+**** Testing Stream Status For: WPCV - 97 Country 97.5 FM...please wait for 5 seconds
+Info:  WPCV - 97 Country 97.5 FM - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+9 Radio status: 200 Radio name: Bob Rocks!
+.aac - Final Stream https://ais-sa2.cdnstream1.com/2543_64.aac
+9 Radio status: 200 Radio name: Bob Rocks!
+Final Stream https://ais-sa2.cdnstream1.com/2543_64.aac
+**** Testing Stream Status For: Bob Rocks!...please wait for 5 seconds
+Info:  Bob Rocks! - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+10 Radio status: 200 Radio name: 102.7 KIIS FM
+.m3u8 - Final Stream https://stream.revma.ihrhls.com/zc185/hls.m3u8
+**** Testing Stream Status For: 102.7 KIIS FM...please wait for 5 seconds
+Info:  102.7 KIIS FM - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+11 Radio status: 200 Radio name: WROD 1340 AM
+Final Stream https://ice7.securenetsystems.net/WROD
+**** Testing Stream Status For: WROD 1340 AM...please wait for 5 seconds
+Info:  WROD 1340 AM - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+ Error - :  Invalid \escape: line 1 column 45 (char 44)
+13 Radio status: 404 Radio name: CNN
+.m3u8 - Final Stream https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v3/newsfree/cnnfree/master.m3u8
+**** Testing Stream Status For: CNN...please wait for 5 seconds
+Info:  CNN - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+ Error - :  Invalid \escape: line 1 column 673 (char 672)
+ Error - :  Invalid \escape: line 1 column 48 (char 47)
+16 Radio status: 200 Radio name: Comedy 104 - Radiostorm.com
+Final Stream http://www.star104.net/stream/comedy-mp3.pls
+**** Testing Stream Status For: Comedy 104 - Radiostorm.com...please wait for 5 seconds
+Stream is dead. Current state = State.Ended
+16 ********Skipped radio******: 200 Radio name: Comedy 104 - Radiostorm.com http://www.star104.net/stream/comedy-mp3.pls
+ Error - :  Invalid \escape: line 1 column 697 (char 696)
+18 Radio status: 302 Radio name: FOX News
+Final Stream https://live.wostreaming.net/direct/foxnewsradio-foxnewsradioaac-imc?
+**** Testing Stream Status For: FOX News...please wait for 5 seconds
+Info:  FOX News - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+19 Radio status: 200 Radio name: HORROR THEATRE
+Final Stream https://ec4.yesstreaming.net:1235/stream
+**** Testing Stream Status For: HORROR THEATRE...please wait for 5 seconds
+Info:  HORROR THEATRE - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+20 Radio status: 302 Radio name: Smooth Jazz Florida
+Final Stream https://streaming.live365.com/a57422
+**** Testing Stream Status For: Smooth Jazz Florida...please wait for 5 seconds
+Stream is dead. Current state = State.Opening
+20 ********Skipped radio******: 302 Radio name: Smooth Jazz Florida https://streaming.live365.com/a57422
+ Error - :  Invalid \escape: line 1 column 660 (char 659)
+ Error - :  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+23 Radio status: 200 Radio name: 181.fm - 80's Hairband
+.mp3 - Final Stream https://listen.181fm.com/181-hairband_128k.mp3
+23 Radio status: 200 Radio name: 181.fm - 80's Hairband
+Final Stream https://listen.181fm.com/181-hairband_128k.mp3
+**** Testing Stream Status For: 181.fm - 80's Hairband...please wait for 5 seconds
+Info:  181.fm - 80's Hairband - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+ Error - :  Invalid \escape: line 1 column 833 (char 832)
+ Error - :  ('Connection aborted.', BadStatusLine('RPC-ERR authentication failed\n'))
+26 Radio status: 200 Radio name: WGTS - Family Friendly Music 91.9 FM
+Final Stream https://ic2.sslstream.com/wgts-fm
+**** Testing Stream Status For: WGTS - Family Friendly Music 91.9 FM...please wait for 5 seconds
+Info:  WGTS - Family Friendly Music 91.9 FM - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+27 Radio status: 200 Radio name: BigR - 80s Metal FM
+Final Stream https://bigrradio.cdnstream1.com/5186_128
+**** Testing Stream Status For: BigR - 80s Metal FM...please wait for 5 seconds
+Info:  BigR - 80s Metal FM - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+28 Radio status: 302 Radio name: Boss Radio 66
+Final Stream https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3526246_SC
+**** Testing Stream Status For: Boss Radio 66...please wait for 5 seconds
+Info:  Boss Radio 66 - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+29 Radio status: 200 Radio name: 57 Chevy Radio
+.m3u - Final Stream https://outpostradio.com/57chevyradio/play.m3u
+**** Testing Stream Status For: 57 Chevy Radio...please wait for 5 seconds
+Stream is dead. Current state = State.Ended
+29 ********Skipped radio******: 200 Radio name: 57 Chevy Radio https://outpostradio.com/57chevyradio/play.m3u
+ Error - :  Invalid \escape: line 1 column 661 (char 660)
+31 Radio status: 302 Radio name: WMVP - ESPN 1000 AM
+Final Stream https://live.wostreaming.net/manifest/goodkarma-wmvpammp3-ibc1
+**** Testing Stream Status For: WMVP - ESPN 1000 AM...please wait for 5 seconds
+Info:  WMVP - ESPN 1000 AM - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+32 Radio status: 200 Radio name: 181.fm - The Eagle
+.mp3 - Final Stream https://listen.181fm.com/181-eagle_128k.mp3
+32 Radio status: 200 Radio name: 181.fm - The Eagle
+Final Stream https://listen.181fm.com/181-eagle_128k.mp3
+**** Testing Stream Status For: 181.fm - The Eagle...please wait for 5 seconds
+Info:  181.fm - The Eagle - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+ Error - :  Invalid \escape: line 1 column 975 (char 974)
+34 Radio status: 200 Radio name: 181.fm - UK Top 40
+.mp3 - Final Stream https://listen.181fm.com/181-uktop40_128k.mp3
+34 Radio status: 200 Radio name: 181.fm - UK Top 40
+Final Stream https://listen.181fm.com/181-uktop40_128k.mp3
+**** Testing Stream Status For: 181.fm - UK Top 40...please wait for 5 seconds
+Info:  181.fm - UK Top 40 - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+ Error - :  Invalid \escape: line 1 column 670 (char 669)
+36 Radio status: 200 Radio name: Dancehall Link
+Final Stream https://streamer.radio.co/s30d82be5e/listen
+**** Testing Stream Status For: Dancehall Link...please wait for 5 seconds
+Info:  Dancehall Link - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+37 Radio status: 302 Radio name: Classic Rock California
+Final Stream https://playerservices.streamtheworld.com/api/livestream-redirect/SAM07AAC001_SC
+**** Testing Stream Status For: Classic Rock California...please wait for 5 seconds
+Info:  Classic Rock California - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+ Error - :  Expecting ',' delimiter: line 1 column 1568 (char 1567)
+39 Radio status: 200 Radio name: New Country - 100hitz
+.aac - Final Stream https://pureplay.cdnstream1.com/6030_64.aac
+39 Radio status: 200 Radio name: New Country - 100hitz
+Final Stream https://pureplay.cdnstream1.com/6030_64.aac
+**** Testing Stream Status For: New Country - 100hitz...please wait for 5 seconds
+Info:  New Country - 100hitz - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+ Error - :  Invalid \escape: line 1 column 886 (char 885)
+ Error - :  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+42 Radio status: 400 Radio name: Frisky Radio
+Final Stream https://stream.frisky.friskyradio.com/mp3_low
+**** Testing Stream Status For: Frisky Radio...please wait for 5 seconds
+Info:  Frisky Radio - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+43 Radio status: 302 Radio name: Aardvark Blues FM
+Final Stream https://streaming.live365.com/b77280_128mp3
+**** Testing Stream Status For: Aardvark Blues FM...please wait for 5 seconds
+Stream is dead. Current state = State.Opening
+43 ********Skipped radio******: 302 Radio name: Aardvark Blues FM https://streaming.live365.com/b77280_128mp3
+ Error - :  Invalid \escape: line 1 column 631 (char 630)
+45 Radio status: 200 Radio name: Sensimedia - Dancehall Radio
+Final Stream https://sensidancehall.radioca.st/;
+**** Testing Stream Status For: Sensimedia - Dancehall Radio...please wait for 5 seconds
+Info:  Sensimedia - Dancehall Radio - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+ Error - :  Invalid \escape: line 1 column 716 (char 715)
+ Error - :  Invalid \escape: line 1 column 633 (char 632)
+48 Radio status: 200 Radio name: 181.fm - The Mix
+.mp3 - Final Stream https://listen.181fm.com/181-themix_128k.mp3
+48 Radio status: 200 Radio name: 181.fm - The Mix
+Final Stream https://listen.181fm.com/181-themix_128k.mp3
+**** Testing Stream Status For: 181.fm - The Mix...please wait for 5 seconds
+Info:  181.fm - The Mix - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+49 Radio status: 200 Radio name: WDST - Radio Woodstock 100.1
+.m3u8 - Final Stream https://stream.revma.ihrhls.com/zc7332/hls.m3u8
+**** Testing Stream Status For: WDST - Radio Woodstock 100.1...please wait for 5 seconds
+Info:  WDST - Radio Woodstock 100.1 - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+ Error - :  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Opening page: 2
+@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@
+51 Radio status: 200 Radio name: 181.fm - Comedy Club
+.mp3 - Final Stream https://listen.181fm.com/181-comedy_128k.mp3
+51 Radio status: 200 Radio name: 181.fm - Comedy Club
+Final Stream https://listen.181fm.com/181-comedy_128k.mp3
+**** Testing Stream Status For: 181.fm - Comedy Club...please wait for 5 seconds
+Info:  181.fm - Comedy Club - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+52 Radio status: 200 Radio name: Dogglounge Radio
+.mp3 - Final Stream https://securestreams4.autopo.st:1853/;stream.mp3
+52 Radio status: 200 Radio name: Dogglounge Radio
+Final Stream https://securestreams4.autopo.st:1853/;stream.mp3
+**** Testing Stream Status For: Dogglounge Radio...please wait for 5 seconds
+Info:  Dogglounge Radio - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+53 Radio status: 200 Radio name: Roswell UFO Radio
+Final Stream https://cast1.asurahosting.com:2199/tunein/noe.pls
+**** Testing Stream Status For: Roswell UFO Radio...please wait for 5 seconds
+Stream is dead. Current state = State.Ended
+53 ********Skipped radio******: 200 Radio name: Roswell UFO Radio https://cast1.asurahosting.com:2199/tunein/noe.pls
+54 Radio status: 302 Radio name: Amazing Blues
+.mp3 - Final Stream https://playerservices.streamtheworld.com/api/livestream-redirect/AMAZING_BLUES_S01.mp3
+54 Radio status: 302 Radio name: Amazing Blues
+Final Stream https://playerservices.streamtheworld.com/api/livestream-redirect/AMAZING_BLUES_S01.mp3
+**** Testing Stream Status For: Amazing Blues...please wait for 5 seconds
+Info:  Amazing Blues - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+55 Radio status: 302 Radio name: 80s Planet
+Final Stream https://listen.openstream.co/3101/audio/;
+**** Testing Stream Status For: 80s Planet...please wait for 5 seconds
+Stream is dead. Current state = State.Opening
+55 ********Skipped radio******: 302 Radio name: 80s Planet https://listen.openstream.co/3101/audio/;
+56 Radio status: 200 Radio name: Ambient Sleeping Pill
+Final Stream http://s.stereoscenic.com/asp-s.pls?highlight
+**** Testing Stream Status For: Ambient Sleeping Pill...please wait for 5 seconds
+Stream is dead. Current state = State.Ended
+56 ********Skipped radio******: 200 Radio name: Ambient Sleeping Pill http://s.stereoscenic.com/asp-s.pls?highlight
+57 Radio status: 200 Radio name: 181.fm - Super 70's
+.mp3 - Final Stream https://listen.181fm.com/181-70s_128k.mp3
+57 Radio status: 200 Radio name: 181.fm - Super 70's
+Final Stream https://listen.181fm.com/181-70s_128k.mp3
+**** Testing Stream Status For: 181.fm - Super 70's...please wait for 5 seconds
+Info:  181.fm - Super 70's - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+58 Radio status: 200 Radio name: WYCT - Cat Country 98.7 FM
+Final Stream http://newsradio1620.streamguys.org/cattunein
+**** Testing Stream Status For: WYCT - Cat Country 98.7 FM...please wait for 5 seconds
+Info:  WYCT - Cat Country 98.7 FM - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+59 Radio status: 200 Radio name: Dancehall Radio
+Final Stream http://janus.shoutca.st:8233/;
+**** Testing Stream Status For: Dancehall Radio...please wait for 5 seconds
+Info:  Dancehall Radio - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+60 Radio status: 200 Radio name: Bluegrass Jamboree
+Final Stream https://s2.radio.co/sf0dcfa39a/listen
+**** Testing Stream Status For: Bluegrass Jamboree...please wait for 5 seconds
+Info:  Bluegrass Jamboree - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+61 Radio status: 200 Radio name: 181.fm - Chilled
+.mp3 - Final Stream https://listen.181fm.com/181-chilled_128k.mp3
+61 Radio status: 200 Radio name: 181.fm - Chilled
+Final Stream https://listen.181fm.com/181-chilled_128k.mp3
+**** Testing Stream Status For: 181.fm - Chilled...please wait for 5 seconds
+Info:  181.fm - Chilled - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+ Error - :  Invalid \escape: line 1 column 698 (char 697)
+63 Radio status: 302 Radio name: KSCS 96.3 FM
+.mp3 - Final Stream https://playerservices.streamtheworld.com/api/livestream-redirect/KSCSFM.mp3
+63 Radio status: 302 Radio name: KSCS 96.3 FM
+Final Stream https://playerservices.streamtheworld.com/api/livestream-redirect/KSCSFM.mp3
+**** Testing Stream Status For: KSCS 96.3 FM...please wait for 5 seconds
+Stream is dead. Current state = State.Opening
+63 ********Skipped radio******: 302 Radio name: KSCS 96.3 FM https://playerservices.streamtheworld.com/api/livestream-redirect/KSCSFM.mp3
+64 Radio status: 200 Radio name: WHTZ - Z100 New York
+.m3u8 - Final Stream https://ample.revma.ihrhls.com/zc1469/40_celu0cen8d7602/playlist.m3u8
+**** Testing Stream Status For: WHTZ - Z100 New York...please wait for 5 seconds
+Info:  WHTZ - Z100 New York - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+65 Radio status: 200 Radio name: GotRadio - Classic Rock
+.aac - Final Stream https://pureplay.cdnstream1.com/6012_64.aac
+65 Radio status: 200 Radio name: GotRadio - Classic Rock
+Final Stream https://pureplay.cdnstream1.com/6012_64.aac
+**** Testing Stream Status For: GotRadio - Classic Rock...please wait for 5 seconds
+Info:  GotRadio - Classic Rock - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+66 Radio status: 200 Radio name: SomaFM - Underground 80's
+Final Stream http://ice2.somafm.com/u80s-128-mp3
+**** Testing Stream Status For: SomaFM - Underground 80's...please wait for 5 seconds
+Info:  SomaFM - Underground 80's - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+ Error - :  Invalid \escape: line 1 column 45 (char 44)
+ Error - :  Invalid \escape: line 1 column 54 (char 53)
+69 Radio status: 200 Radio name: Radio Paradise
+Final Stream http://stream.radioparadise.com/aac-128
+**** Testing Stream Status For: Radio Paradise...please wait for 5 seconds
+Info:  Radio Paradise - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+70 Radio status: 200 Radio name: GotRadio - Classic 60s
+.aac - Final Stream https://pureplay.cdnstream1.com/6011_64.aac
+70 Radio status: 200 Radio name: GotRadio - Classic 60s
+Final Stream https://pureplay.cdnstream1.com/6011_64.aac
+**** Testing Stream Status For: GotRadio - Classic 60s...please wait for 5 seconds
+Info:  GotRadio - Classic 60s - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+71 Radio status: 200 Radio name: Album Rock WXYG
+Final Stream https://ice5.securenetsystems.net/WXYG
+**** Testing Stream Status For: Album Rock WXYG...please wait for 5 seconds
+Info:  Album Rock WXYG - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+ Error - :  Expecting ',' delimiter: line 1 column 722 (char 721)
+73 Radio status: 302 Radio name: Radio Hamrah 100.3 FM HD3
+Final Stream https://stream.zeno.fm/gxdq0awu30duv
+**** Testing Stream Status For: Radio Hamrah 100.3 FM HD3...please wait for 5 seconds
+Info:  Radio Hamrah 100.3 FM HD3 - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+74 Radio status: 400 Radio name: Frisky Radio
+Final Stream https://stream.frisky.friskyradio.com/mp3_low
+**** Testing Stream Status For: Frisky Radio...please wait for 5 seconds
+Info:  Frisky Radio - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+75 Radio status: 200 Radio name: 181.fm - Yacht Rock
+.mp3 - Final Stream https://listen.181fm.com/181-yachtrock_128k.mp3
+75 Radio status: 200 Radio name: 181.fm - Yacht Rock
+Final Stream https://listen.181fm.com/181-yachtrock_128k.mp3
+**** Testing Stream Status For: 181.fm - Yacht Rock...please wait for 5 seconds
+Info:  181.fm - Yacht Rock - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+ Error - :  Expecting ',' delimiter: line 1 column 743 (char 742)
+77 Radio status: 200 Radio name: WKKY - Americas Best Country 104.7 FM
+Final Stream https://ice3.securenetsystems.net/WKKY
+**** Testing Stream Status For: WKKY - Americas Best Country 104.7 FM...please wait for 5 seconds
+Info:  WKKY - Americas Best Country 104.7 FM - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+ Error - :  Expecting ',' delimiter: line 1 column 722 (char 721)
+79 Radio status: 200 Radio name: GT Reggae Radio
+Final Stream http://rosetta.shoutca.st:8039/;
+**** Testing Stream Status For: GT Reggae Radio...please wait for 5 seconds
+Info:  GT Reggae Radio - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+ Error - :  Invalid \escape: line 1 column 771 (char 770)
+81 Radio status: 302 Radio name: KHKK - The Hawk 104.1
+.mp3 - Final Stream https://playerservices.streamtheworld.com/api/livestream-redirect/KHKKFM.mp3
+81 Radio status: 302 Radio name: KHKK - The Hawk 104.1
+Final Stream https://playerservices.streamtheworld.com/api/livestream-redirect/KHKKFM.mp3
+**** Testing Stream Status For: KHKK - The Hawk 104.1...please wait for 5 seconds
+Stream is dead. Current state = State.Opening
+81 ********Skipped radio******: 302 Radio name: KHKK - The Hawk 104.1 https://playerservices.streamtheworld.com/api/livestream-redirect/KHKKFM.mp3
+82 Radio status: 302 Radio name: 80's Hits - HitsRadio
+.mp3 - Final Stream https://playerservices.streamtheworld.com/api/livestream-redirect/977_80.mp3
+82 Radio status: 302 Radio name: 80's Hits - HitsRadio
+Final Stream https://playerservices.streamtheworld.com/api/livestream-redirect/977_80.mp3
+**** Testing Stream Status For: 80's Hits - HitsRadio...please wait for 5 seconds
+Info:  80's Hits - HitsRadio - Radio Stream is working. Current state = State.Playing
+SQL Code....
+##################################################################################
+83 Radio status: 200 Radio name: DC Naat Radio
+Final Stream http://s33.myradiostream.com:13872/;
+Aborted (core dumped)

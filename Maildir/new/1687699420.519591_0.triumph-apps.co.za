@@ -1,0 +1,19 @@
+Return-Path: <root@triumph-apps.co.za>
+X-Original-To: root
+Delivered-To: root@triumph-apps.co.za
+Received: by triumph-apps.co.za (Postfix, from userid 0)
+	id F062A5EEC6; Sun, 25 Jun 2023 15:23:39 +0200 (SAST)
+From: root@triumph-apps.co.za (Cron Daemon)
+To: root@triumph-apps.co.za
+Subject: Cron <root@triumph-apps> /usr/bin/python3 /home/szn0502/Batch_Scripts/radio_net_us_vlc_status.py #Fetch Radio.Net UK Radios
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20230625132339.F062A5EEC6@triumph-apps.co.za>
+Date: Sun, 25 Jun 2023 15:23:39 +0200 (SAST)
+
+[src/libmpg123/layer3.c:INT123_do_layer3():1801] error: dequantization failed!
+Aborted (core dumped)

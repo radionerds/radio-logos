@@ -1,0 +1,21 @@
+Return-Path: <root@triumph-apps.co.za>
+X-Original-To: root
+Delivered-To: root@triumph-apps.co.za
+Received: by triumph-apps.co.za (Postfix, from userid 0)
+	id 4491B5EEC9; Sat, 22 Jul 2023 06:25:02 +0200 (SAST)
+From: root@triumph-apps.co.za (Cron Daemon)
+To: root@triumph-apps.co.za
+Subject: Cron <root@triumph-apps> test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily )
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20230722042502.4491B5EEC9@triumph-apps.co.za>
+Date: Sat, 22 Jul 2023 06:25:02 +0200 (SAST)
+
+/etc/cron.daily/etckeeper:
+fatal: unable to stat 'webmin/apache/site.webminorig': No such file or directory
+etckeeper warning: git add --all
+run-parts: /etc/cron.daily/etckeeper exited with return code 1

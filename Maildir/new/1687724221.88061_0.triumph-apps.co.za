@@ -1,0 +1,18 @@
+Return-Path: <root@triumph-apps.co.za>
+X-Original-To: root
+Delivered-To: root@triumph-apps.co.za
+Received: by triumph-apps.co.za (Postfix, from userid 0)
+	id 858F15EE31; Sun, 25 Jun 2023 22:17:01 +0200 (SAST)
+From: root@triumph-apps.co.za (Cron Daemon)
+To: root@triumph-apps.co.za
+Subject: Cron <root@triumph-apps>    cd / && run-parts --report /etc/cron.hourly
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20230625201701.858F15EE31@triumph-apps.co.za>
+Date: Sun, 25 Jun 2023 22:17:01 +0200 (SAST)
+
+/bin/sh: 1: Cannot fork
